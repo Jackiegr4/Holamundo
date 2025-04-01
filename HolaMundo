@@ -1,0 +1,12 @@
+package holamundo;
+
+/**
+ * @author Jackie
+ */
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+        System.out.println("Comenzando 31/marzo/2025");
+    }
+    
+}
